@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: rgb(177, 176, 176);
+}
+
+.content {
+    background-color: #dddddd;
+}
+
+.card {
+    border: solid 2px rgb(177, 176, 176);
+    background-color: #f1efef;
+}
+
+.judul {
+    padding-top: 100px;
+}
